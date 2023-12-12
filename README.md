@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer based in Czech Republic!<br><br>Currently working on project called Nomadify, check it out!
+Frontend developer based in Czech Republic!<br><br>Currently working on project called [Nomadify](https://github.com/Adam014/Nomadify), check it out!
 
 
 ## 🌐 Socials:
