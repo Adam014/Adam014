@@ -1,7 +1,3 @@
-👋 Hi, I'm Adam Stádník, a Frontend Developer with over 3 years of hands-on experience ([gPoint Interactive](https://gpointinteractive.com)), specializing in creating immersive websites. Currently, I'm deeply involved in the exciting world of Next.js, pushing the boundaries of web development.
-
-🚀 My current focus is on a project called [Nomadify](https://nomadify-blond.vercel.app), where I blend creativity with code to redefine user experiences. Nomadify is more than just a project; it's a journey to transform how users interact with digital spaces.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamstádník/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kindastcs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Adam014) 
 
