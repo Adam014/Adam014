@@ -6,7 +6,7 @@
 
 [yeah]: # 
 
-<h2>🔗 Github & Gitlab synced commits</h2>
+<h2>🔗 Github + Gitlab synced</h2>
 
 ![Github + Gitlab heatmap](https://commit-sync.vercel.app/api/heatmap?github=Adam014&gitlab=adam.stadnik&mode=dark&bg=%0d1117)
 
