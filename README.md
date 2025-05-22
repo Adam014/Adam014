@@ -1,14 +1,16 @@
 <h4>Socials</h4>
 
-<p>
-  <a href="https://www.linkedin.com/in/adam-stádník-271280218/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
+<div style="display: flex; gap: 40px; align-items: center;">
+  <a href="https://www.linkedin.com/in/adam-stádník-271280218/" target="_blank" style="text-align: center; display: inline-block;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
+    <div style="font-size: 14px;">Adam Stádník</div>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/kindastcxs" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" />
+
+  <a href="https://twitter.com/kindastcxs" target="_blank" style="text-align: center; display: inline-block;">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="50" />
+    <div style="font-size: 14px;">kindastcxs</div>
   </a>
-</p>
+</div>
 
 [yeah]: # 
 
