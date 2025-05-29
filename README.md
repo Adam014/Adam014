@@ -8,7 +8,7 @@
 
   <a href="https://twitter.com/kindastcxs" target="_blank" style="text-align: center; display: inline-block;">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="50" />
-    <div style="font-size: 14px;">kindastcxs</div>
+    <div style="font-size: 14px;">kindastcs</div>
   </a>
 </div>
 
