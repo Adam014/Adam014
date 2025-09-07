@@ -13,4 +13,4 @@
 
 ![Github + Gitlab heatmap](https://commit-sync.vercel.app/api/heatmap?github=Adam014&gitlab=adam.stadnik&mode=dark&bg=%0d1117)
 
-<a href="https://commit-sync.vercel.appc">Want's to sync your commits aswell? Visit project "commit-sync"</a>
+<a href="https://commit-sync.vercel.app">Want's to sync your commits aswell? Visit project "commit-sync"</a>
