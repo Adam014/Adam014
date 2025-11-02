@@ -3,7 +3,6 @@
 <div style="display: flex; gap: 40px; align-items: center;">
   <a href="https://www.linkedin.com/in/adam-stádník-271280218/" target="_blank" style="text-align: center; display: inline-block;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
-    <div style="font-size: 14px;">Adam Stádník</div>
   </a>
 </div>
 
