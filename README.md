@@ -19,7 +19,10 @@ Building at [Rustai](https://rustai.cz/), with open-source projects along the wa
 
 ## Selected work
 
-<a href="https://vyzyvatel.com/"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/vyzyvatel-extended-mobile.png" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/vyzyvatel-extended-desktop.png" /><source media="(max-width: 600px)" srcset="assets/vyzyvatel-extended-mobile.gif" /><img src="assets/vyzyvatel-extended-desktop.gif" alt="Vyzyvatel — core development team. A 12-second gameplay clip with stream chat, presented in a Safari-style window." width="100%" /></picture></a>
+<p align="left">
+<a href="https://vyzyvatel.com/"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/vyzyvatel-madmonq-mobile.png" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/vyzyvatel-madmonq-desktop.png" /><source media="(max-width: 600px)" srcset="assets/vyzyvatel-madmonq-mobile.webp" /><img src="assets/vyzyvatel-madmonq-desktop.webp" alt="Vyzyvatel — core development team. A 60-second gameplay clip with stream chat, shown on a MacBook in a lived-in home, with MADMONQ on the table." width="520" /></picture></a>
+<br /><sub>Fueled by <a href="https://www.madmonq.gg/">MADMONQ</a></sub>
+</p>
 
 I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz game where players compete for territory.
 
