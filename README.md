@@ -17,7 +17,15 @@ Building at [Rustai](https://rustai.cz/), with open-source projects along the wa
 <a href="https://stackoverflow.com/users/23187454/kindasthino"><img src="https://img.icons8.com/?size=50&amp;id=ZRn3hTRSJmFP&amp;format=png" alt="Stack Overflow" height="50" /></a>
 </p>
 
-## A few things I’ve built
+## Selected work
+
+<a href="https://vyzyvatel.com/"><picture><source media="(max-width: 600px)" srcset="assets/vyzyvatel-feature-mobile.png" /><img src="assets/vyzyvatel-feature.png" alt="Vyzyvatel — multiplayer trivia and strategy. Part of the core development team." width="100%" /></picture></a>
+
+I’m part of the **core development team** behind Vyzyvatel, a community-driven multiplayer game where knowledge and strategy meet.
+
+**[Play Vyzyvatel ↗](https://vyzyvatel.com/)**
+
+### Open source
 
 - **[Sveltick](https://github.com/Adam014/sveltick)** — A lightweight library for tracking performance and traffic.
 - **[commit-sync](https://github.com/Adam014/commit-sync)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
