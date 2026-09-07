@@ -2,7 +2,13 @@
 
 <div style="display: flex; gap: 40px; align-items: center;">
   <a href="https://www.linkedin.com/in/adam-stádník-271280218/" target="_blank" style="text-align: center; display: inline-block;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
+    <img src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="LinkedIn" height="50" />
+  </a>
+  <a href="https://www.instagram.com/kindastxd/" target="_blank" style="text-align: center; display: inline-block;">
+    <img src="https://img.icons8.com/color-pixels/48/instagram-new.png" alt="LinkedIn" height="50" />
+  </a>
+  <a href="https://x.com/kindastcs" target="_blank" style="text-align: center; display: inline-block;">
+    <img src="https://img.icons8.com/color-pixels/48/twitterx.png" alt="LinkedIn" height="50" />
   </a>
 </div>
 
