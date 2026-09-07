@@ -19,13 +19,19 @@ Building at [Rustai](https://rustai.cz/), with open-source projects along the wa
 
 ## Selected work
 
-<a href="https://vyzyvatel.com/"><picture><source media="(max-width: 600px)" srcset="assets/vyzyvatel-feature-mobile.png" /><img src="assets/vyzyvatel-feature.png" alt="Vyzyvatel — multiplayer trivia and strategy. Part of the core development team." width="100%" /></picture></a>
+<a href="https://vyzyvatel.com/"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/vyzyvatel-extended-mobile.png" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/vyzyvatel-extended-desktop.png" /><source media="(max-width: 600px)" srcset="assets/vyzyvatel-extended-mobile.gif" /><img src="assets/vyzyvatel-extended-desktop.gif" alt="Vyzyvatel — core development team. A 12-second gameplay clip with stream chat, presented in a Safari-style window." width="100%" /></picture></a>
 
-I’m part of the **core development team** behind Vyzyvatel, a community-driven multiplayer game where knowledge and strategy meet.
+I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz game where players compete for territory.
 
-**[Play Vyzyvatel ↗](https://vyzyvatel.com/)**
+<a href="https://vyzyvatel.com/reference"><picture><source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/vyzyvatel-reach-light-mobile.svg" /><source media="(max-width: 600px)" srcset="assets/vyzyvatel-reach-dark-mobile.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/vyzyvatel-reach-light.svg" /><img src="assets/vyzyvatel-reach-dark.svg" alt="500K+ views on YouTube and 1.5M+ views on Instagram. See videos and references." width="320" /></picture></a>
 
-### Open source
+**[Play Vyzyvatel ↗](https://vyzyvatel.com/)** &nbsp; · &nbsp; [Videos & press ↗](https://vyzyvatel.com/reference)
+
+<sub>Gameplay clip: <a href="https://www.youtube.com/watch?v=_pdJ2xdY19g&amp;t=336s">HaiseT+ ↗</a></sub>
+
+---
+
+### Open source tools
 
 - **[Sveltick](https://github.com/Adam014/sveltick)** — A lightweight library for tracking performance and traffic.
 - **[commit-sync](https://github.com/Adam014/commit-sync)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
