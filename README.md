@@ -17,7 +17,7 @@ Building at [Rustai](https://rustai.cz/), with open-source projects along the wa
 <a href="https://stackoverflow.com/users/23187454/kindasthino"><img src="https://img.icons8.com/?size=50&amp;id=ZRn3hTRSJmFP&amp;format=png" alt="Stack Overflow" height="50" /></a>
 </p>
 
-## Selected work
+<!-- ## Selected work
 
 <p align="left">
 <a href="https://vyzyvatel.com/"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/vyzyvatel-madmonq-mobile.png" /><source media="(prefers-reduced-motion: reduce)" srcset="assets/vyzyvatel-madmonq-desktop.png" /><source media="(max-width: 600px)" srcset="assets/vyzyvatel-madmonq-mobile.webp" /><img src="assets/vyzyvatel-madmonq-desktop.webp" alt="Vyzyvatel — core development team. A 60-second gameplay clip with stream chat, shown on a MacBook in a lived-in home, with MADMONQ on the table." width="520" /></picture></a>
@@ -32,7 +32,7 @@ I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz
 
 <sub>Gameplay clip: <a href="https://www.youtube.com/watch?v=_pdJ2xdY19g&amp;t=336s">HaiseT+ ↗</a></sub>
 
----
+--- -->
 
 ### Open source tools
 
