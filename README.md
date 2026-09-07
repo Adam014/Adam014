@@ -13,6 +13,8 @@ Building at [Rustai](https://rustai.cz/), with open-source projects along the wa
 <a href="https://www.instagram.com/kindastxd/"><img src="https://img.icons8.com/color-pixels/48/instagram-new.png" alt="Instagram" height="50" /></a>
 &nbsp;
 <a href="https://x.com/kindastcs"><img src="https://img.icons8.com/color-pixels/48/twitterx.png" alt="Twitter / X" height="50" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/23187454/kindasthino"><img src="https://img.icons8.com/?size=50&amp;id=ZRn3hTRSJmFP&amp;format=png" alt="Stack Overflow" height="50" /></a>
 </p>
 
 ## A few things I’ve built
