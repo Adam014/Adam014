@@ -34,6 +34,11 @@ I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz
 
 --- -->
 
+### Developed 
+
+- **[Vyzyvatel](https://vyzyvatel.com/)** — Multiplayer quiz game where players compete for territory.
+**[Play Vyzyvatel ↗](https://vyzyvatel.com/)** &nbsp; · &nbsp; [Videos & press ↗](https://vyzyvatel.com/reference)
+
 ### Open source tools
 
 - **[Sveltick](https://github.com/Adam014/sveltick)** — A lightweight library for tracking performance and traffic.
