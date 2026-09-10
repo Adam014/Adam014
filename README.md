@@ -41,6 +41,7 @@ I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz
 
 ### Open source tools
 
+- **[ADB Ready](https://github.com/Adam014/adb-ready)** — An MCP-native, local-first CLI that gives agents and developers safe, typed control of Android targets, apps, UI, logs, evidence, and development sessions.
 - **[Sveltick](https://github.com/Adam014/sveltick)** — A lightweight library for tracking performance and traffic.
 - **[commit-sync](https://github.com/Adam014/commit-sync)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
 
