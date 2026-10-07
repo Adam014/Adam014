@@ -46,7 +46,7 @@ I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz
 - **[Sveltick](https://github.com/Adam014/sveltick)** — A lightweight library for tracking performance and traffic.
 - **[commit-sync](https://github.com/Adam014/commit-sync)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
 
-## Coding activity
+<!-- ## Coding activity
 
 My contributions across GitHub and GitLab, in one place.
 
