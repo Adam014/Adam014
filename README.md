@@ -43,8 +43,8 @@ I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz
 
 - **[ADB Ready](https://www.npmjs.com/package/adb-ready)** — An MCP-native, local-first CLI that gives agents and developers safe, typed control of Android targets, apps, UI, logs, evidence, and development sessions.
 - **[Runpalette](https://www.npmjs.com/package/runpalette)** — The command palette for every project. Turn the scripts your repository already owns into one searchable command surface—for developers, coding agents, and CI.
-- **[Sveltick](https://github.com/Adam014/sveltick)** — A lightweight library for tracking performance and traffic.
-- **[commit-sync](https://github.com/Adam014/commit-sync)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
+- **[Sveltick](https://www.npmjs.com/package/sveltick)** — The performance and traffic toolkit for Svelte apps. Monitor page performance, track navigation and traffic sources, and spot slowdowns with configurable alerts—for developers building with Svelte and SvelteKit.
+- **[commit-sync](https://commit-sync.vercel.app/)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
 
 <!-- ## Coding activity
 
