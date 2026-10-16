@@ -45,7 +45,7 @@ I’m part of the **core development team behind Vyzyvatel**, a multiplayer quiz
 - **[ADB Ready](https://www.npmjs.com/package/adb-ready)** — An MCP-native, local-first CLI that gives agents and developers safe, typed control of Android targets, apps, UI, logs, evidence, and development sessions.
 - **[Runpalette](https://www.npmjs.com/package/runpalette)** — The command palette for every project. Turn the scripts your repository already owns into one searchable command surface—for developers, coding agents, and CI.
 - **[commit-sync](https://commit-sync.vercel.app/)** — GitHub and GitLab contributions in a single heatmap. The one below runs on it.
-- **[commit-sync](https://github.com/Adam014/claudes)** — One word in a VS Code terminal, three Claude Code agents laid out and booting.
+- **[Claudes](https://github.com/Adam014/claudes)** — One word in a VS Code terminal, three Claude Code agents laid out and booting.
 
 <!-- ## Coding activity
 
