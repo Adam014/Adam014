@@ -7,6 +7,8 @@ React Native and Expo, backend services, web, and deployment. I’m involved fro
 
 Building at [Rustai](https://rustai.cz/), with open-source projects along the way.
 
+- My portfolio website => https://stadnik.dev/
+
 <p>
 <a href="https://www.linkedin.com/in/adam-stádník-271280218/"><img src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="LinkedIn" height="50" /></a>
 &nbsp;
